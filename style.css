@@ -22,9 +22,6 @@
     background-color: black;
     padding: 50px;
 }
-.l {
-    width: 100%;
-}
 .ka {
     display: flex;
     flex-wrap: wrap;
@@ -248,7 +245,7 @@
         width: 100%;
     }
     .ul {
-        width: 250px;
+        max-width: 250px;
         margin: auto;
     }
 }
